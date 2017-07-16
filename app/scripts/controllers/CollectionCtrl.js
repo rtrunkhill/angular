@@ -8,5 +8,5 @@
 
     angular
         .module('blocJams')
-        .controller('CollectionCtrl', CollectionCtrl);
+        .controller('AlbumCtrl', CollectionCtrl);
 })();
